@@ -13,6 +13,12 @@ pipeline {
                 sh 'echo "test the code = working fine"'
             }
         }
+        stage('check code') {
+            steps {
+                // Commands to run tests
+                sh 'echo "test the code = working fine"'
+            }
+        }
         stage('Deploy') {
             steps {
                 // Commands to deploy your project
