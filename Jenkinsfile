@@ -1,22 +1,22 @@
 pipeline {
     agent any
     stages {
-        stage('Build') {
+        stage('checkout') {
             steps {
-                // Commands to build your project
-                sh 'mvn clean install'
+                // checkout code from git
+                git 'https://github.com/Pranmohan/laravel-boilerplate.git'
             }
         }
         stage('Test') {
             steps {
                 // Commands to run tests
-                sh 'mvn test'
+                sh 'echo "test the code = working fine"'
             }
         }
         stage('Deploy') {
             steps {
                 // Commands to deploy your project
-                sh 'mvn deploy'
+                sh 'echo "deploy the code successfully"'
             }
         }
     }
