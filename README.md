@@ -9,7 +9,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/rappasoft/laravel-boilerplate.svg)
 ![GitHub stars](https://img.shields.io/github/stars/rappasoft/laravel-boilerplate.svg?style=social)
 
-### Enjoying this project? [Buy me a beer 🍺](https://www.buymeacoffee.com/rappasoft)
+### Enjoying this project yes? [Buy me a beer 🍺](https://www.buymeacoffee.com/rappasoft)
 
 ### Demo Credentials
 
