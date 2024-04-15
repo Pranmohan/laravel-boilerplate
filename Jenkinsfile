@@ -16,7 +16,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 // Commands to deploy your project
-                sh 'echo "deploy the code successfully"'
+                sh 'echo "deploy the code successfully second time"'
             }
         }
     }
