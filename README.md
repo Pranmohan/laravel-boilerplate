@@ -33,7 +33,7 @@ Laravel Boilerplate provides you with a massive head start on any size web appli
 
 ### Issues
 
-If you come across any issues please [report them here](https://github.com/rappasoft/laravel-boilerplate/issues).
+If you have come across any issues please [report them here](https://github.com/rappasoft/laravel-boilerplate/issues).
 
 ### Contributing
 
